@@ -24,6 +24,5 @@ public class Koszyk {
             sumaKoszyku += listaProduktow.get(i).getCena();
         }
         return sumaKoszyku;
-        //
     }
 }
